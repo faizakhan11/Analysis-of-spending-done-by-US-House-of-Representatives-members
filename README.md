@@ -1,4 +1,4 @@
-# Data-Analysis-House-of-Representatives-members-spending
+# Analysis of spending done by House of Representatives members-ProPublica's dataset
 Analysis of House of Representatives' members spending
 
 This project is based on Members of the House of Representatives spending data hosted by ProPublica (https://www.propublica.org/datastore/api/propublica-congress-api).
