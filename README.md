@@ -1,7 +1,6 @@
 # Analysis of spending done by House of Representatives members-ProPublica's dataset
-Analysis of House of Representatives' members spending
 
-This project is based on Members of the House of Representatives spending data hosted by ProPublica (https://www.propublica.org/datastore/api/propublica-congress-api).
+This project is based on Members of the House of Representatives spending data hosted by [ProPublica](https://www.propublica.org/datastore/api/propublica-congress-api)
 
 Members of the House of Representatives get an annual budget for their Washington and district offices which cannot be used for personal or campaign expenses. ProPublica publishes spending data on a quarterly basis. I looked at data from 2009-2018.
 
