@@ -5,7 +5,7 @@ This project is based on Members of the House of Representatives spending data h
 
 Members of the House of Representatives get an annual budget for their Washington and district offices which cannot be used for personal or campaign expenses. ProPublica publishes spending data on a quarterly basis. I looked at data from 2009-2018.
 
-## Tools used: 
+## Tools used
 
 1- Pandas
 
