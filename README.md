@@ -3,9 +3,17 @@ Analysis of House of Representatives' members spending
 
 This project is based on Members of the House of Representatives spending data hosted by ProPublica (https://www.propublica.org/datastore/api/propublica-congress-api).
 
-Members of the House of Representatives get an annual budget for their Washington and district offices which cannot be used for personal or campaign expenses. ProPublica publishes spending data on a quarterly basis. I looked at data from third quarter of 2009 till 1st quarter of 2018.
+Members of the House of Representatives get an annual budget for their Washington and district offices which cannot be used for personal or campaign expenses. ProPublica publishes spending data on a quarterly basis. I looked at data from 2009-2018.
 
-Data cleaning
+## Tools used: 
+
+1- Pandas
+
+2- Numpy
+
+3- Jupyter Notebooks
+
+## Data cleaning
 
 After loading the data, I noticed the following problems with the data:
 
@@ -15,7 +23,7 @@ After loading the data, I noticed the following problems with the data:
 
 3- Some of the datasets contained ‘AMOUNT’ paid by representatives in a string format including commas (e.g. $12,000.65)
 
-Data Analysis
+## Results
 
 1- Finding mean duration of projects which the payments covered: 30 days
 
