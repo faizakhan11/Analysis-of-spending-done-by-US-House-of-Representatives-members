@@ -27,12 +27,17 @@ After loading the data, I noticed the following problems with the data:
 1- Finding mean duration of projects which the payments covered: 30 days
 
 2- Average annual expenditure between Jan 1, 2010 and Dec 31, 2016: $1,223,373,736
+
 Roughly $1 billion budget is allocated to members of House of Representatives to run their affairs.
 
-3- Office with the highest total expenditure in 2016: Government Contributions, which are payments to help out the public. FERS (Federal Employees Retirement System) is the biggest beneficiary of these payments contributing to 21% of total expenditures done by representatives in 2016.
+3- Office with the highest total expenditure in 2016: Government Contributions, which are payments to help out the public. 
+
+FERS (Federal Employees Retirement System) is the biggest beneficiary of these payments contributing to 21% of total expenditures done by representatives in 2016.
+
 In simpler words,  in 2016 ⅕ of the budget allocated to representatives was used for the purpose of serving civil servant retirees.
 
 4- Highest average staff salary among representatives in 2016: $65,064
 
 5- Percentage of expenditures of the top 20 spenders in 2016 coming from members of the Democratic party: 48.4%
+
 Among top 20 spenders in 2016, 10 belonged to the Democratic and Republican Party each. 
